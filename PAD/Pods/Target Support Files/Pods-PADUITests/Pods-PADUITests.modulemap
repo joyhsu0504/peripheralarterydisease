@@ -1,0 +1,6 @@
+framework module Pods_PADUITests {
+  umbrella header "Pods-PADUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
